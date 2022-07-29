@@ -1,2 +1,4 @@
 Gitの練習をしてます！
-練習練習！
+練習練習！　
+・git add
+ ・git commit
